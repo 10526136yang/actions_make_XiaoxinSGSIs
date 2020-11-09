@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://udomain.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.10.22/xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "rom_name": "xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "pack_sgsi": "HMNote7_20.10.22_Q-eu_XiaoxinSGSIs_Pinkdoge.7z",
+  "rom_url": "https://hugeota.d.miui.com/20.11.6/miui_RAPHAEL_20.11.6_c73e01dee6_10.0.zip",
+  "rom_name": "miui_RAPHAEL_20.11.6_c73e01dee6_10.0.zip",
+  "pack_sgsi": "HMK20p_XiaoxinSGSIs_Pinkdoge.7z",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
@@ -10,5 +10,5 @@
   "make_zui": false,
   "make_super": false,
   "upload_transfer": true,
-  "upload_artifact": false
+  "upload_artifact": true,
 }
